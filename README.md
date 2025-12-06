@@ -12,7 +12,7 @@ The analysis established a critical **"Patience Threshold" of 60 minutes**. Wait
 
 **AI Diagnostic Lab (Decomposition Tree):**
 ![Decomposition Tree](Screenshots/decomposition_tree.png)
-*(Note: Rename your screenshot to match this)*
+
 
 ---
 
