@@ -11,7 +11,7 @@ The analysis established a critical **"Patience Threshold" of 60 minutes**. Wait
 ### 📊 Dashboard Preview
 
 **AI Diagnostic Lab (Decomposition Tree):**
-![Decomposition Tree](Screenshots/decomposition_tree.png)
+![Decomposition Tree](https://github.com/zestcoderg/Hospital-ER-Operations-Analysis/blob/main/Decomposition%20Tree.png)
 
 
 ---
@@ -51,12 +51,8 @@ Using the **AI Decomposition Tree**, I drilled down into the "Average Wait Time"
 ### 📉 Visual Insights
 
 **The Patience Threshold:**
-![Line Chart](Screenshots/patience_threshold.png)
+![Line Chart]
 *Shows the correlation between Wait Time and Satisfaction Score, defining the 60-minute SLA.*
-
-**Operations Heatmap:**
-![Heatmap](Screenshots/heatmap.png)
-*Visualizing the "Red Zone" on Monday mornings.*
 
 ---
 
